@@ -11,18 +11,12 @@ pygments: true
 title : Ignis Bootstrap
 tagline: May the world dance in flames
 author : ignis
-  name : Caesar Gilang
-  email : caesargilang@gmail.com
-  github : caesarah
-  twitter : @caesyar
+name : Caesar Gilang
+email : caesargilang@gmail.com
+github : nvmndme
+twitter : @caesyar
 title : Jekyll Bootstrap
 tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
